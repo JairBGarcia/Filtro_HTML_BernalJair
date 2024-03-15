@@ -1,0 +1,289 @@
+.white{
+    width: 1920px;
+    height: 1080px;
+    background-color: #EFECCA;
+    color: #5E565A;
+
+}
+
+
+.CampusShop{
+    position: absolute;
+    top: 5vw;
+    left: 7vh;
+    height: auto;
+    width: 1.5vw;
+    font-size: 6vh;
+}
+
+.todos{
+    position: absolute;
+    text-decoration: none;
+    color: black;
+    font-size: 1.3vw;
+    top: 13vw;
+    left: 3.95vw;
+}
+
+.abrigo{
+    position: absolute;
+    text-decoration: none;
+    color: black;
+    font-size: 1.3vw;
+    top: 16vw;
+    left: 3.95vw
+}
+
+.camisa{
+    position: absolute;
+    text-decoration: none;
+    color: black;
+    font-size: 1.3vw;
+    top: 19vw;
+    left: 3.95vw;
+}
+
+.pantalones{
+    position: absolute;
+    text-decoration: none;
+    color: black;
+    font-size: 1.3vw;
+    top: 22vw;
+    left: 3.95vw;
+}
+
+.Carrito{
+    position: absolute;
+    text-decoration: none;
+    color: black;
+    font-size: 1.3vw;
+    top: 32vw;
+    left: 3.95vw;
+}
+
+.derechos{
+    position: absolute;
+    top: 45vw;
+    left: 5vw;
+}
+
+
+.container{
+    position: absolute;
+    background-color: #A9CBB7;
+    top: 10vh;
+    left: 50vh;
+    width: 135vh;
+    height: 83vh;
+    border-radius: 1vh;
+    border-color: green;
+    
+}
+
+.titulocont1{
+    position: absolute;
+    top: 1vh;
+    left: 6vh;
+    font-size: 3.5vh;
+}
+
+.container1{
+    position: absolute;
+    background-color: #5E565A;
+    width: 123vh;
+    height: 20vh;
+    border-radius: 1vh;
+    top: 6vh;
+    left: 6vh;
+    cursor: pointer;
+}
+
+
+.container2{
+    position: absolute;
+    background-color: #5E565A;
+    width: 123vh;
+    height: 20vh;
+    border-radius: 1vh;
+    top: 29vh;
+    left: 6vh;
+    cursor: pointer;
+}
+
+.container3{
+    position: absolute;
+    background-color: #5E565A;
+    width: 123vh;
+    height: 20vh;
+    border-radius: 1vh;
+    top: 52vh;
+    left: 6vh;
+    cursor: pointer;
+}
+
+.container4{
+    position: absolute;
+    background-color: #f0f0f0;
+    width: 30vh;
+    height: 9vh;
+    border-radius: 1vh;
+    top: 72.6vh;
+    left: 99vh;
+    cursor: pointer;
+}
+
+
+.todos :hover{
+    transform: scale(1.05);
+}
+
+.abrigo :hover{
+    transform: scale(1.05);
+}
+
+.camisas :hover{
+    transform: scale(1.05);
+}
+
+.pantalones :hover{
+    transform: scale(1.05);
+}
+
+.carrito :hover{
+    transform: scale(1.05);
+}
+
+.toggle{
+    position: absolute;
+    top: 6vh;
+    left: 17vh;
+    width: 7vh;
+}
+
+.agregarr{
+    position: absolute;
+    text-decoration: none;
+    color: black;
+    font-size: 1vw;
+    top: 3.1vw;
+    left: 9vw;
+}
+
+.Nombre{
+    position: absolute;
+    top: 3vh;
+    left: 29vh;
+    text-decoration: none;
+    font-size: 2vh;
+    color: white;
+}
+
+.cantidad{
+    position: absolute;
+    top: 3vh;
+    left: 48vh;
+    text-decoration: none;
+    font-size: 2vh;
+    color: white;
+}
+
+.precio{
+    position: absolute;
+    top: 3vh;
+    left: 69vh;
+    text-decoration: none;
+    font-size: 2vh;
+    color: white;
+}
+.subtotal{
+    position: absolute;
+    top: 3vh;
+    left: 89vh;
+    text-decoration: none;
+    font-size: 2vh;
+    color: white;
+}
+
+.producto1{
+    position: absolute;
+    width: 12vh;
+    top: 2vh;
+    left: 6vh;
+    border-radius: 1vh;
+
+}
+
+.Nombre1{
+    position: absolute;
+    top: 10vh;
+    left: 21.5vh;
+    text-decoration: none;
+    font-size: 1.9vh;
+    color: white;
+    text-align: center;
+}
+
+.Nombre12{
+    position: absolute;
+    top: 10vh;
+    left: 24.5vh;
+    text-decoration: none;
+    font-size: 1.9vh;
+    color: white;
+    text-align: center;
+}
+
+
+.cantidad2{
+    position: absolute;
+    top: 10vh;
+    left: 51.5vh;
+    text-decoration: none;
+    font-size: 2vh;
+    color: white;
+}
+
+.precio3{
+    position: absolute;
+    top: 10vh;
+    left: 69vh;
+    text-decoration: none;
+    font-size: 2vh;
+    color: white;
+}
+.subtotal4{
+    position: absolute;
+    top: 10vh;
+    left: 89vh;
+    text-decoration: none;
+    font-size: 2vh;
+    color: white;
+}
+
+.subtotal41{
+    position: absolute;
+    top: 10vh;
+    left: 90vh;
+    text-decoration: none;
+    font-size: 2vh;
+    color: white;
+}
+
+.texto1{
+    position: absolute;
+    top: 1vh;
+    left: 21.5vh;
+    text-decoration: none;
+    font-size: 1.9vh;
+    color: rgb(12, 12, 12);
+    text-align: center;
+}
+
+.texto2{
+    position: absolute;
+    top: 1vh;
+    left: 1vh;
+    text-decoration: none;
+    font-size: 2vh;
+    color: rgb(0, 0, 0);
+}
