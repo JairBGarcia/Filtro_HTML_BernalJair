@@ -7,41 +7,172 @@
     position: absolute;
     top: 10vh;
     font-size: 6vh;
-    left: 4vw;
+    left: 6vw;
 }
 
 .todos{
     position: absolute;
-    top: 21vh;
-    left: 11vh;
+    top: 25vh;
+    left: 16vh;
+    font-size: 2vh;
 }
 
 .abrigo{
     position: absolute;
-    top: 25vh;
-    left: 11vh;
+    top: 30vh;
+    left: 16vh;
+    font-size: 2vh;
+
 }
 
 .camisas{
     position: absolute;
-    top: 30vh;
-    left: 11vh;
+    top: 35vh;
+    left: 16vh;
+    font-size: 2vh;
+
 }
 
 .pantalones{
     position: absolute;
-    top: 35vh;
-    left: 11vh;
+    top: 40vh;
+    left: 16vh;
+    font-size: 2vh;
+    text-decoration: none;
+
+
 }
 
 .derecho{
     position: absolute;
     top: 86vh;
-    left: 11vh;
+    left: 16vh;
+    font-size: 2vh;
+
 }
 
 .Carrito{
     position: absolute;
+    top: 60vh;
+    left: 16vh;
+    font-size: 2vh;
+    text-decoration: none;
+
+
+}
+
+.container{
+    position: absolute;
+    background-color: rgb(12, 109, 255);
+    top: 10vh;
+    left: 50vh;
+    width: 135vh;
+    height: 83vh;
+    border-radius: 1vh;
+    border-color: green;
+}
+
+.titulocont1{
+    position: absolute;
+    top: 3vh;
+    left: 6vh;
+    font-size: 3.5vh;
+}
+
+.container1{
+    position: absolute;
+    background-color: green;
+    width: 27vh;
+    height: 33vh;
+    border-radius: 1vh;
+    top: 9vh;
+    left: 6vh;
+}
+
+.container2{
+    position: absolute;
+    background-color: green;
+    width: 27vh;
+    height: 33vh;
+    border-radius: 1vh;
+    top: 9vh;
+    left: 38vh;
+}
+
+.container3{
+    position: absolute;
+    background-color: green;
+    width: 27vh;
+    height: 33vh;
+    border-radius: 1vh;
+    top: 9vh;
+    left: 70vh;
+}
+
+.container4{
+    position: absolute;
+    background-color: green;
+    width: 27vh;
+    height: 33vh;
+    border-radius: 1vh;
+    top: 9vh;
+    left: 102vh;
+}
+
+.container5{
+    position: absolute;
+    background-color: green;
+    width: 27vh;
+    height: 33vh;
+    border-radius: 1vh;
     top: 46vh;
-    left: 11vh;
+    left: 6vh;
+}
+
+.container11{
+    position: absolute;
+    top: 23vh;
+    width: 27vh;
+    height: 10vh;
+    border-radius: 1vh;
+    background-color: white;
+
+}
+
+.container22{
+    position: absolute;
+    top: 23vh;
+    width: 27vh;
+    height: 10vh;
+    border-radius: 1vh;
+    background-color: white;
+
+}
+
+.container33{
+    position: absolute;
+    top: 23vh;
+    width: 27vh;
+    height: 10vh;
+    border-radius: 1vh;
+    background-color: white;
+
+}
+.container44{
+    position: absolute;
+    top: 23vh;
+    width: 27vh;
+    height: 10vh;
+    border-radius: 1vh;
+    background-color: white;
+
+}
+.container55{
+    position: absolute;
+    top: 23vh;
+    width: 27vh;
+    height: 10vh;
+    border-radius: 1vh;
+    background-color: white;
+
 }
