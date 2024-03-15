@@ -155,9 +155,9 @@
 
 .toggle{
     position: absolute;
-    top: 6vh;
-    left: 17vh;
-    width: 7vh;
+    top: 4vh;
+    left: 15vh;
+    width:12vh;
 }
 
 .agregarr{
@@ -165,8 +165,8 @@
     text-decoration: none;
     color: black;
     font-size: 1vw;
-    top: 3.1vw;
-    left: 9vw;
+    top: 2.1vw;
+    left: 8vw;
 }
 
 .Nombre{
@@ -272,7 +272,7 @@
 .texto1{
     position: absolute;
     top: 1vh;
-    left: 21.5vh;
+    left: 2.5vh;
     text-decoration: none;
     font-size: 1.9vh;
     color: rgb(12, 12, 12);
@@ -281,9 +281,28 @@
 
 .texto2{
     position: absolute;
-    top: 1vh;
-    left: 1vh;
+    top: 4vh;
+    left: 2.5vh;
     text-decoration: none;
     font-size: 2vh;
     color: rgb(0, 0, 0);
+}
+
+
+.agregarr1{
+    position: absolute;
+    text-decoration: none;
+    color: black;
+    font-size: 1vw;
+    top: 40vw;
+    left: 4.5vw;
+}
+
+.toggle2{
+    position: absolute;
+    top: 76vh;
+    left: 6vh;
+    width:15vh;
+    height: 3vh;
+    cursor: pointer;
 }
