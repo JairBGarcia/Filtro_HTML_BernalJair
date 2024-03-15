@@ -306,3 +306,11 @@
     height: 3vh;
     cursor: pointer;
 }
+
+.agregar :hover{
+    transform: scale(1.05);
+}
+
+.agregar2 :hover{
+    transform: scale(1.05);
+}
