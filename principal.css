@@ -423,3 +423,19 @@
     background-color: white;
 
 }
+
+.toggle{
+    position: absolute;
+    top: 6vh;
+    left: 17vh;
+    width: 7vh;
+}
+
+.agregarr{
+    position: absolute;
+    text-decoration: none;
+    color: black;
+    font-size: 1vw;
+    top: 3.2vw;
+    left: 9vw;
+}
